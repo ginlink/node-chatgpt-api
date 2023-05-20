@@ -32,7 +32,8 @@ export default {
     // chatGptLabel: 'Bob',
     // promptPrefix: 'You are Bob, a cowboy in Western times...',
     // A proxy string like "http://<ip>:<port>"
-    proxy: "",
+    proxy: "http://10.0.4.4:7890",
+    // proxy: "http://jiangjin.com:7890",
     // (Optional) Set to true to enable `console.debug()` logging
     debug: false,
   },
